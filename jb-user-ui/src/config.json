@@ -1,0 +1,7 @@
+{
+    "ENVIRONMENT": "Test",
+    "SPOTIFY_CLIENT_ID": "f5df258fdab6476e87c9108955592899",
+    "REDIRECT_URI": "http://localhost:3000/callback",
+    "JUKEBOX_SERVER_URI": "http://localhost:8008",
+    "REFRESH_TIMER": "5000"
+}
